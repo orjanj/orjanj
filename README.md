@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-If we have been collaborated, you could add me on LinkedIn:
+**Contact information:**
 
-<a href="https://www.linkedin.com/in/orjanjacobsen/" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="50" height="50" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/orjanjacobsen/)
