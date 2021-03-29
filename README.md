@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Currently member of two teams doing development in various languages (Python, PHP, {My,Postgre}SQL, frontend):
 
-[![TG](https://avatars.githubusercontent.com/u/1061974?s=100&v=4)](https://github.com/gathering) | [![Team Fenris](https://avatars.githubusercontent.com/u/72355508?s=100&v=4)](https://github.com/Team-Fenris)
+[![TG](https://avatars.githubusercontent.com/u/1061974?s=50&v=4)](https://github.com/gathering) | [![Team Fenris](https://avatars.githubusercontent.com/u/72355508?s=50&v=4)](https://github.com/Team-Fenris)
 --- | ---
 The Gathering (volunteer) | Team Fenris (school project)
 
@@ -29,4 +29,4 @@ The Gathering (volunteer) | Team Fenris (school project)
 
 **Certfications:**
 
-<a href="https://www.youracclaim.com/badges/6ad34092-7440-46ed-88f9-2dcd1f2b4ef9" target="_blank"><img src="https://images.youracclaim.com/size/340x340/images/6edb32c5-37d8-4fd4-98cd-2811932f0185/CompTIA_Linux_2Bce.png" width="100" height="100" /></a>
+<a href="https://www.youracclaim.com/badges/6ad34092-7440-46ed-88f9-2dcd1f2b4ef9" target="_blank"><img src="https://images.youracclaim.com/size/340x340/images/6edb32c5-37d8-4fd4-98cd-2811932f0185/CompTIA_Linux_2Bce.png" width="50" height="50" /></a>
