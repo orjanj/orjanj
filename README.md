@@ -8,7 +8,7 @@ Current/previous projects:
 
 Time frame | Project title
 --- | ---
-08.2020 - 05.2021 | [Team Fenris: FenrisBox](https://github.com/Team-Fenris) (Soon to be public)
+08.2020 - 05.2021 | [Team Fenris: FenrisBox](https://github.com/Team-Fenris)
 08.2019 - 05.2020 | [Team North: Twitter Incident Visualizer](https://github.com/orjanj/twitter-incident-visualizer)
 
 **Certfications:**
