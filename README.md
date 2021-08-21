@@ -2,7 +2,7 @@
 
 This profile contains personal projects, and team projects (found under _organizations_).
 
-Currently studying [Cyber Security](https://www.noroff.no/en/studies/university-college/cyber-security) and volunteering as developer at [The Gathering](https://github.com/gathering).
+Currently working as a software developer at [DIPS AS](https://www.dips.no), studying [Cyber Security](https://www.noroff.no/en/studies/university-college/cyber-security) and volunteering as a software developer at [The Gathering](https://github.com/gathering).
 
 Current/previous projects:
 
