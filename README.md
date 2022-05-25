@@ -8,6 +8,7 @@ Current/previous projects:
 
 Time frame | Project title
 --- | ---
+09.2021 - 05.2022 | [Nmap Package Generation and Analysis](https://github.com/orjanj/nmap-pkg-generation-analysis)
 08.2020 - 05.2021 | [Team Fenris: FenrisBox](https://github.com/Team-Fenris)
 08.2019 - 05.2020 | [Team North: Twitter Incident Visualizer](https://github.com/orjanj/twitter-incident-visualizer)
 
