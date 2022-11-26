@@ -2,13 +2,13 @@
 
 This profile contains personal projects, and team projects (found under _organizations_).
 
-Currently working as a software developer at [DIPS AS](https://www.dips.no), studying [Cyber Security](https://www.noroff.no/en/studies/university-college/cyber-security) and volunteering as a software developer at [The Gathering](https://github.com/gathering).
+Currently working as a fullstack developer at [Telenor Norway](https://github.com/TelenorNorway), holding a [bachelor](https://github.com/orjanj/nmap-pkg-generation-analysis/blob/main/tex/thesis.pdf) in [Cyber Security](https://www.noroff.no/en/studies/university-college/cyber-security) and volunteering as a software developer at [The Gathering](https://github.com/gathering).
 
 Current/previous projects:
 
 Time frame | Project title
 --- | ---
-09.2021 - 05.2022 | [Nmap Package Generation and Analysis](https://github.com/orjanj/nmap-pkg-generation-analysis)
+09.2021 - 05.2022 |  [Bachelor project](https://github.com/orjanj/nmap-pkg-generation-analysis/blob/main/tex/thesis.pdf): [Nmap Package Generation and Analysis](https://github.com/orjanj/nmap-pkg-generation-analysis)
 08.2020 - 05.2021 | [Team Fenris: FenrisBox](https://github.com/Team-Fenris)
 08.2019 - 05.2020 | [Team North: Twitter Incident Visualizer](https://github.com/orjanj/twitter-incident-visualizer)
 
